@@ -1,0 +1,20 @@
+.jumbotron{
+    background-image: linear-gradient(black, rebeccapurple, black);
+}
+h1{
+    text-align: center;
+    color: ivory;
+    font-size: 48px;
+}
+
+body{
+    background-image: linear-gradient(black, rebeccapurple);
+}
+.box{
+    border: lightslategrey solid;
+    padding: 20px;
+    width: 250px;
+}
+span{
+    color: black;
+}
